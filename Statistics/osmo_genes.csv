@@ -1,0 +1,30 @@
+Gene family,Gene ,Gene name,KO_ID,Adaptation
+Osmoprotectant genes,opuA,Osmoprotectant transport system ATP-binding protein,K05847,Compatible solute transport
+Osmoprotectant genes,opuC ,Osmoprotectant transport system substrate-binding protein,K05845,Compatible solute transport
+Osmoprotectant genes,opuBD,Osmoprotectant transport system permease protein,K05846,Compatible solute transport
+Glycine betaine transporting genes,opuD ,Glycine betaine transporter,K05020,Compatible solute transport
+Glycine betaine transporting genes,betT,Choline/glycine/proline betaine transport protein,K02168,Compatible solute transport
+Glycine betaine transporting genes,proV,Glycine betaine/proline  transport system ATP-binding protein,K02000,Compatible solute transport
+Glycine betaine transporting genes,proW,Glycine betaine/proline transport system permease protein,K02001,Compatible solute transport
+Glycine betaine transporting genes,proX ,Glycine betaine/proline transport system substrate-binding protein,K02002,Compatible solute transport
+Trehalose biosynthesis,glgA,Starch synthase,K00703,Compatible solute production
+Trehalose biosynthesis,glgC,Glucose-1-phosphate adnylyltransferase,K00975,Compatible solute production
+Trehalose biosynthesis,glgB,"GH13 (1,4-alpha-glucan branching enzyme)",K16149,Compatible solute production
+Trehalose biosynthesis,treX,Isoamylase,K01214,Compatible solute production
+Trehalose biosynthesis,treY,(1>4)-alpha-D-glucan 1-alpha-D-glucosylmutase,K06044,Compatible solute production
+Trehalose biosynthesis,treZ,Maltooligosyltrehalose trehalohydrolase,K01236,Compatible solute production
+Ectoine biosynthesis,lysC,Aspartate kinase,K00928,Compatible solute production
+Ectoine biosynthesis,asd,Aspartate-semialdehyde dehydrogenase,K00133,Compatible solute production
+Ectoine biosynthesis,ectB,Diaminobutyrate-2-oxoglutarate transaminase,K00836,Compatible solute production
+Ectoine biosynthesis,ectA,"L-2,4-diaminobutyric acid acetyltransferase",K06718,Compatible solute production
+Ectoine biosynthesis,ectC,L-ectoine synthase,K06720,Compatible solute production
+Glycerol kinase,glpK,Glycerol kinase,K00864,Compatible solute usage
+3-phosphate dehydrogenase,glpA,3-phosphate dehydrogenase,K00111,Compatible solute usage
+3-phosphate dehydrogenase,glpB,3-phosphate dehydrogenase subunit B,K00112,Compatible solute usage
+3-phosphate dehydrogenase,glpC,3-phosphate dehydrogenase subunit C,K00113,Compatible solute usage
+Glycerol dehydrogenase,gldA,Glycerol dehydrogenase,K00005,Compatible solute usage
+Glycerol dehydrogenase,GPD1,glycerol-3-phosphate dehydrogenase (NAD+) ,K00006,Compatible solute usage
+TRK system potassium uptake,trkA,trk system potassium uptake,K03499,Salt-in
+TRK system potassium uptake,trkH,trk system potassium uptake,K03498,Salt-in
+Na+ symporter,SSS,Na+ symporter,K03307,Salt-in
+NhaA Na+/H+ antiporter,NhaA,NhaA Na+/H+ antiporter,K03313,Salt-in
